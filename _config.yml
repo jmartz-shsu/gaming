@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jmartz Gaming and Hobby Blog
-logo: /_assets/img/logo.png
+#logo: /assets/img/logo.png
 email: jmartz@shsu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Jmartz Gaming and Hobby Blog: Where Miniature Worlds Come to Life! 
@@ -28,7 +28,7 @@ baseurl: "gaming" # the subpath of your site, e.g. /blog
 url: "https://jmartz-shsu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jmartz-shsu
 github_username:  jmartz-shsu
-show_downloads: true
+#show_downloads: true
 #google_analytics: [Your Google Analytics tracking ID]
 
 
@@ -56,15 +56,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# Minima specific settings, which are only available from Minima 3.0 onward.
-minima:
-  # Minima skin selection.
-  # Available skins are:
-  # classic	           Default, light color scheme.
-  # dark	             Dark variant of the classic skin.
-  # auto	             Adaptive skin based on the default classic and dark skins.
-  # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
-  # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: dark
