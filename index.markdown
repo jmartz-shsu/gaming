@@ -4,3 +4,6 @@
 
 layout: home
 ---
+<div style="max-width:25%;float:right;margin:0 10px 10px 0" markdown="1">
+![image](/assets/img/logo.png)
+</div>
