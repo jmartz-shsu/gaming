@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+<div style="max-width:55%;float:center;margin:0 10px 10px 0" markdown="1">
+![image](/assets/img/logo2.png)
+</div>
 
 # About Jmartz Gaming and Hobby Blog
 
