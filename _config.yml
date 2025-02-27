@@ -20,6 +20,7 @@
 
 title: Jmartz Gaming and Hobby Blog
 logo: /assets/img/logo2.png
+name: Justin Martz
 email: jmartz@shsu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Jmartz Gaming and Hobby Blog: Where Miniature Worlds Come to Life! 
@@ -30,7 +31,11 @@ url: "https://jmartz-shsu.github.io" # the base hostname & protocol for your sit
 github_username:  jmartz-shsu
 #show_downloads: true
 #google_analytics: [Your Google Analytics tracking ID]
-
+avatar: /assets/img/avatar.png
+#favicon: /assets/img/favicon.ico
+timezone: America/Chicago
+lang: en
+tagline: "Where Miniature Worlds Come to Life!"
 
 # Build settings
 theme: minima
