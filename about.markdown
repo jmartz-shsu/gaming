@@ -24,7 +24,7 @@ At Jmartz Gaming and Hobby Blog, My mission is to inspire and empower the wargam
 
 # Meet the Team
 
-Behind Jmartz Gaming and Hobby Blog is a group of one dedicated hobbyist and gamer who has a love for the miniature world. I am committed to delivering top-notch content and fostering a welcoming environment for all.
+Behind Jmartz Gaming and Hobby Blog is an army of one dedicated hobbyist and gamer who has a love for the miniature world. I am committed to delivering top-notch content and fostering a welcoming environment for all.
 
 # Join Us on This Adventure
 
