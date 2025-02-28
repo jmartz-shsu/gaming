@@ -32,13 +32,15 @@ github_username:  jmartz-shsu
 #show_downloads: true
 #google_analytics: [Your Google Analytics tracking ID]
 avatar: /assets/img/avatar.png
-#favicon: /assets/img/favicon.ico
+favicon: /assets/img/favicon.ico
 timezone: America/Chicago
 lang: en
 tagline: "Where Miniature Worlds Come to Life!"
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 
