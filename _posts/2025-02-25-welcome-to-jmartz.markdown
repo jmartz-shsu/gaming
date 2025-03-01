@@ -13,5 +13,3 @@ Why did I start this blog? Because there's just so much awesomeness to explore a
 Don't forget to subscribe to my blog's RSS feed for all the latest updates. Feel free to shoot me an email with your comments and thoughts—I'd love to hear from you!
 
 Thanks for stopping by! I'm pumped to embark on this journey with you. Stay tuned for my next post where I'll be diving into my current miniature builds, painting projects, and gaming sessions.
-
-
