@@ -2,7 +2,7 @@
 layout: post
 title:  "Building out my new hobby space"
 date:   2025-03-01 01:00:00 -0600
-categories: hobby station multiboard
+categories: Hobby station multiboard
 ---
 ## Fun with Multiboard
 
