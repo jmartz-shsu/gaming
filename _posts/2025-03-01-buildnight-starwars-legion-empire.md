@@ -1,18 +1,19 @@
 ---
 layout: post
 title: Buildnight starwars legion empire
-date: 2025-03-02 15:28:25 -0600
+date: 2025-03-01 19:28:25 -0600
 categories: buildnight starwars legion empire
 tags: [Buildnight starwars legion empire]
 ---
 ## Building up legion units
-Decided to put together some of my Star Wars: Legion empire backlog tonight.
+Decided to put together some of my Star Wars: Legion empire backlog tonight. Still putting the site togehter so not a lot of time last night to do too much.
 
 Tools used:
->Hobby knife
->Super glue (Thin)
->Model Line Remover
->Cutting mat
+> Hobby knife  
+> Super glue (Thin)  
+> Model Line Remover  
+> Cutting mat  
+
 ### Assembled General Veers Box
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/202327889@N03/54361033283/in/dateposted-public/" title="Legion Empire Assembly"><img src="https://live.staticflickr.com/65535/54361033283_d6f4df97aa_z.jpg" width="418" height="640" alt="Legion Empire Assembly"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
