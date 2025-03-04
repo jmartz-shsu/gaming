@@ -17,5 +17,4 @@ Units used:
 > Crypt Horrors
 
 ### Downloadable list
-My first start on the [List][1]
-[1]:{{ site.url }}/docs/PtG Ravaged Coast - Justin Martz - FEC.pdf
+My first start on the [List](https://jmartz-shsu.github.io/gaming/docs/PtG%20Ravaged%20Coast%20-%20Justin%20Martz%20-%20FEC.pdf)
