@@ -9,10 +9,12 @@ tags: [AOS FEC PtG List]
 Decided to enter into an Age of Sigmar Path To Glory Narrative event. Put together the starter list for 1000 points to kick of the campaign with my Flesh-Eater Courts army.
 
 Units used:
-> Hobby knife  
-> Super glue (Thin)  
-> Model Line Remover  
-> Cutting mat  
+> Abhorrant Archregent
+> Crypt Ghouls
+> Morbheg Knights
+> Royal Terrorgheist
+> Crypt Haunter Courtier
+> Crypt Horrors
 
 ### Downloadable list
 My first start on the [List][1]
