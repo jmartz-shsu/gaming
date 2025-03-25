@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buildweekend legion empire
+title: Buildweekend starwars legion empire
 date: 2025-03-08 07:38:58 -0500
 categories: buildweekend starwars legion empire
 tags: [buildweekend starwars legion empire]
